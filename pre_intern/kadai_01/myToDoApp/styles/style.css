@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #000000;
+}
+
+ul {
+    text-align: left;
+    margin-left: 40%;
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+button {
+    color: #ffffff;
+    background-color: #a40000;
+}
+
+span {
+    margin-right: 30px;
+}
